@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Proprietary data
-/raw_data
+jupyter_notebooks/raw_data
