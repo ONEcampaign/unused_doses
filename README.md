@@ -58,7 +58,7 @@ Generally, to calculate unused doses by a certain date, we take the following st
 3. Estimate how many doses the country has donated (and/or will, based actual or projected deliveries) by a specific date.
 
 4. Estimate how many unused or excess doses there would be by a specific date, calculated as:<br>
-![formula](https://render.githubusercontent.com/render/math?math=Unused_{doses}%20=$20Supply$20-$20Demand$20-$20Donations)
+<img src="https://render.githubusercontent.com/render/math?math=Unused_{doses} = Supply - Demand - Donations">
 
 
 ## Sources
